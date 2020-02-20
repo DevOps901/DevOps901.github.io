@@ -1321,7 +1321,7 @@ readers do not read off random characters that represent icons */
   content: "\f4ba"; }
 
 .fa-download:before {
-  content: "\f019"; }
+  content: "\f019" !important; }
 
 .fa-draft2digital:before {
   content: "\f396"; }
@@ -2407,6 +2407,9 @@ readers do not read off random characters that represent icons */
   content: "\f09b"; }
   
 .fa-github-in:before {
+  content: "\f0e1"; }
+
+.fa-download-in:before {
   content: "\f0e1"; }
 
 .fa-linode:before {
