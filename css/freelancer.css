@@ -9583,6 +9583,22 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
+.page-section3 {
+  padding: 6rem 0;
+}
+
+.page-section3 .page-section3-heading {
+  font-size: 2.25rem;
+  line-height: 2rem;
+}
+
+@media (min-width: 992px) {
+  .page-section3 .page-section3-heading {
+    font-size: 3rem;
+    line-height: 2.5rem;
+  }
+}
+
 .divider-custom {
   margin: 1.25rem 0 1.5rem;
   width: 100%;
