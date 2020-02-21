@@ -4,7 +4,7 @@
 A project was given to us to develop a website which will act as a personal profile/digital CV. Tasks were assigned each day and the project had to be live by day's end. This site was based off of a Bootstrap 4 Site template that was found for a freelancer and then adapted as a personal digital profile.
 
 ## Features
-*Header/Landing Page*
+*Header/Landing Page
 
 ## Requirements
 Day 1 had us initially create a header for our page which included our name, a picture of us and then links to our Gthub page and LinkedIn accounts. 
@@ -17,8 +17,7 @@ Day 4 we were tasked with improving our site in whichever way we felt it needed 
 
 ## Project Resources
 ### Template
-The original template that this website is adapted from and based off of can be found here: https://startbootstrap.com/themes/
-freelancer/
+The original template that this website is adapted from and based off of can be found here: https://startbootstrap.com/themes/freelancer/
 
 The github repository for the theme is located here: https://github.com/BlackrockDigital/startbootstrap-freelancer
 
