@@ -12,7 +12,7 @@ Day 3 we were tasked with adding in an education/certification section.
 
 Day 4 we were tasked with improving our site in whichever way we felt it needed improving and ensuring it was fully mobile-friendly. A skills section was added as well as a full CV download button at the bottom of the page.
 
-## Project Resource
+## Project Resources
 ### Template
 The original template that this website is adapted from and based off of can be found here: https://startbootstrap.com/themes/
 freelancer/
